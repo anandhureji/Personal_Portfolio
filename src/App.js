@@ -4,11 +4,11 @@ import Intro from './components/introduction/Intro';
 
 function App() {
   return (
-    <div className="App">
+    
      <div>
        <Intro />
      </div>
-     </div>
+    
   );
 }
 
